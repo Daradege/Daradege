@@ -42,7 +42,7 @@ but fr **python** is my real love 😁
 
 ## contact me
 
-**discord** : <a href="discordapp.com/users/898843614380163082"><button>my discord</button></a>
+**discord** : <a href="https://discordapp.com/users/898843614380163082"><button>my discord</button></a>
 
 others soon
 
