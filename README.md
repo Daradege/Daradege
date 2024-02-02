@@ -1,4 +1,53 @@
-### Hi there 👋
+# darg adege :)
+##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=discord+bot+developer;discord+configer;bale+bot+developer;telegram+bot+developer;frontend+developer;developed+for+develop+♥️)
+
+hi all 👋
+my name is ali safamanesh
+i am a **discord bot developer** 🤖
+
+and discord ***configer***
+
+```kill(you🫵)```
+
+am i a __robo__? ...
+
+## my website
+![Salam SVG](http://rozup.ir/download/3805971/Screenshot%202024-02-02%20191958.svg)
+<a href="https://daradege.github.io/">
+
+<button>go to my website</button></a>
+
+## my projects
+im working on a **discord bot** 🤖
+<b>DargAPI bot</b>
+but ... unfortunately i dont have much time to work on it (schools)
+
+i am working on my website :)
+
+## my skills
+
+**🐍 python** : 95%
+
+**🌐 html** : 90%
+
+**✔️ javascript** : 35%
+
+**🎨 css** : 60%
+
+**🔷discord and config servers** : 100%
+
+## my love
+just kidding.
+but fr **python** is my real love 😁
+
+## contact me
+
+**discord** : <a href="discordapp.com/users/898843614380163082"><button>my discord</button></a>
+
+others soon
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=discord+bot+developer;bale+bot+developer;telegram+bot+developer;frontend+developer;developed+for+development+%3A)
+# pls follow me :)
+i will be happy if U follow me bro :)
+
+tnx 😀😀
