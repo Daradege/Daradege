@@ -12,7 +12,7 @@ and discord ***configer***
 am i a __robo__? ...
 
 ## my website
-![Salam SVG](http://rozup.ir/download/3805971/Screenshot%202024-02-02%20191958.svg)
+
 <a href="https://daradege.github.io/">
 
 <button>go to my website</button></a>
