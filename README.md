@@ -13,9 +13,7 @@ am i a __robo__? ...
 
 ## my website
 
-<a href="https://daradege.github.io/">
-
-<button>go to my website</button></a>
+<a href="https://daradege.github.io/">go to my website</a>
 
 ## my projects
 im working on a **discord bot** 🤖
