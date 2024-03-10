@@ -7,6 +7,8 @@ i am a **discord bot developer** 🤖
 
 and discord ***configer***
 
+<center>![status](https://api.statusbadges.me/badge/status/898843614380163082?simple=true)</center>
+
 ```kill(you🫵)```
 
 am i a __robo__? ...
