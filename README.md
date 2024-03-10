@@ -10,6 +10,8 @@ and discord ***configer***
 <p align="center">
   <p align="center">
   <img src="https://api.statusbadges.me/badge/status/898843614380163082?simple=true" />
+  <img src="https://api.statusbadges.me/badge/status/898843614380163082?simple=true" />
+  <img src="https://api.statusbadges.me/badge/status/898843614380163082?simple=true" />
 </p>
 
 ```kill(you🫵)```
