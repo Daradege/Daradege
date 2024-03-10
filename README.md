@@ -7,7 +7,9 @@ i am a **discord bot developer** 🤖
 
 and discord ***configer***
 
-![status](https://api.statusbadges.me/badge/status/898843614380163082?simple=true)
+<p align="center">
+  ![status](https://api.statusbadges.me/badge/status/898843614380163082?simple=true)
+</p>
 
 ```kill(you🫵)```
 
