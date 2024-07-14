@@ -1,9 +1,11 @@
-# daradege
+# Daradege
 
 ##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=discord+bot+developer;discord+configer;bale+bot+developer;telegram+bot+developer;frontend+developer;developed+for+develop+♥️)
 
-hi all 👋
+hi all 👋!
+
 my name is **Ali Safamanesh**
+
 i am a **bot developer** 🤖
 
 and discord ***configer***
@@ -15,7 +17,7 @@ and discord ***configer***
   <img src="https://api.statusbadges.me/badge/vscode/898843614380163082" />
 </p>
 
-## my bots
+## my bots are
 ### TemplarShop bot
 ### MahaCraft bot
 ### DevelopersClub bot
@@ -54,7 +56,5 @@ im currently working on MPM big projects
 ## contact me
 
 **discord** : <a href="https://discordapp.com/users/898843614380163082"><button>my discord</button></a>
-
 **bale / telegram / whatsapp** : 09023251195
-
 **email** : darg.q.a.a@gmail.com
