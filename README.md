@@ -1,9 +1,10 @@
-# darg adege :)
+# daradege
+
 ##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=discord+bot+developer;discord+configer;bale+bot+developer;telegram+bot+developer;frontend+developer;developed+for+develop+♥️)
 
 hi all 👋
-my name is ali safamanesh
-i am a **discord bot developer** 🤖
+my name is **Ali Safamanesh**
+i am a **bot developer** 🤖
 
 and discord ***configer***
 
@@ -14,45 +15,41 @@ and discord ***configer***
   <img src="https://api.statusbadges.me/badge/vscode/898843614380163082" />
 </p>
 
-```kill(you🫵)```
-
-am i a __robo__? ...
+## my bots
+### TemplarShop bot
+### MahaCraft bot
+### DevelopersClub bot
+### NotAFunBot bot
+### NeoGames bot
+### InterNews bot
 
 ## my website
 
 <a href="https://daradege.github.io/">go to my website</a>
 
 ## my projects
-im working on a **discord bot** 🤖
-<b>DargAPI bot</b>
-but ... unfortunately i dont have much time to work on it (schools)
-
-i am working on my website :)
+im currently working on MPM big projects
 
 ## my skills
 
-**🐍 python** : 95%
-
-**🌐 html** : 90%
-
-**✔️ javascript** : 35%
-
-**🎨 css** : 60%
-
 **🔷discord and config servers** : 100%
 
-## my love
-just kidding.
-but fr **python** is my real love 😁
+**🐍 python** : 100%
+
+**🌐 html** : 100%
+
+**✔️ Node.Js** : 100%
+
+**🎨 css** : 95%
+
+**📷 Photoshop** : 90%
+
+**🥾 Bootstrap** : 90%
+
+**🟣 PHP** : 70%
 
 ## contact me
 
 **discord** : <a href="https://discordapp.com/users/898843614380163082"><button>my discord</button></a>
-
-others soon
-
-
-# pls follow me :)
-i will be happy if U follow me bro :)
-
-tnx 😀😀
+**bale / telegram / whatsapp** : 09023251195
+**email** : darg.q.a.a@gmail.com
