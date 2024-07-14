@@ -54,5 +54,7 @@ im currently working on MPM big projects
 ## contact me
 
 **discord** : <a href="https://discordapp.com/users/898843614380163082"><button>my discord</button></a>
+
 **bale / telegram / whatsapp** : 09023251195
+
 **email** : darg.q.a.a@gmail.com
