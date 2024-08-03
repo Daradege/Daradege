@@ -18,12 +18,16 @@ and discord ***configer***
 </p>
 
 ## my bots are
-### TemplarShop bot
-### MahaCraft bot
-### DevelopersClub bot
-### NotAFunBot bot
-### NeoGames bot
-### InterNews bot
+### TemplarShop bot    🛒
+### MahaCraft bot      ⛏️
+### DevelopersClub bot 👨‍💻
+### NotAFunBot bot     🤡
+### NeoGames bot       🎮
+### InterNews bot      📰
+### NotMeloBot         🎸
+### NotPhotoBot        📸
+### NotSearchingBot    🔍
+### NotNewsBot         📰
 
 
 
