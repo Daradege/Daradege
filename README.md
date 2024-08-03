@@ -25,9 +25,9 @@ and discord ***configer***
 ### NeoGames bot       🎮
 ### InterNews bot      📰
 ### NotMeloBot         🎸
-### NotPhotoBot        📸
-### NotSearchingBot    🔍
-### NotNewsBot         📰
+### NotPhotoBot        📸 (soon)
+### NotSearchingBot    🔍 (soon)
+### NotNewsBot         📰 (soon)
 
 
 
