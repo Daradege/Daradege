@@ -62,3 +62,11 @@ im currently working on MPM big projects
 **discord** : <a href="https://discordapp.com/users/898843614380163082"><button>my discord</button></a>
 **bale / telegram / whatsapp** : 09023251195
 **email** : darg.q.a.a@gmail.com
+
+<center>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daradege)
+
+![daradege's GitHub stats](https://github-readme-stats.vercel.app/api?username=daradege&show_icons=true&theme=transparent)
+
+</center>
