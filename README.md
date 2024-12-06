@@ -77,7 +77,7 @@ Currently working on MPM big projects
 ## 📫 Contact Me
 
 - **Discord**: <a href="https://discordapp.com/users/898843614380163082" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
-- **Bale / Telegram / WhatsApp**: 09023251195
+- **Bale / Telegram**: @daradege
 - **Email**: darg.q.a.a@gmail.com
 
 ## 🌟 Fun Fact
