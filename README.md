@@ -31,7 +31,7 @@ I'm **Ali Safamanesh**, a passionate **bot developer** 🤖 and discord ***confi
 
 ## 🚀 Current Projects
 
-Currently working on MPM big projects
+nothing; I'm free
 
 ## 💻 Skills
 
