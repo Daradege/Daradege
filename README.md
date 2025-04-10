@@ -22,9 +22,7 @@ I'm **Ali Safamanesh**, a passionate **Backend Developer** from Iran.
   <img src="https://github-readme-stats.vercel.app/api?username=daradege&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daradege&theme=radical" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=daradege&theme=transparent)](https://git.io/streak-stats)
 
 ---
 
