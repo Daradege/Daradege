@@ -14,13 +14,9 @@ I'm **Ali Safamanesh**, a passionate **Backend Developer** from Iran.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daradege&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daradege&layout=compact&theme=radical" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daradege&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=daradege&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=daradege&theme=transparent)](https://git.io/streak-stats)
 
