@@ -1,3 +1,5 @@
+![FREE PALESTINE](https://github.com/Daradege/Daradege/blob/main/palestine.png?raw=true)
+
 <img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ali%20Safamanesh" />
 
 ##### ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Discord+Bot+Developer;Discord+Server+Administrator;Bale+Bot+Developer;Telegram+Bot+Developer;Frontend+Programmer;Backend+Developer;Passionate+about+Development+%E2%99%A5%EF%B8%8F)
