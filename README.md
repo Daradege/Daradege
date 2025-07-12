@@ -14,7 +14,7 @@ Hello! I'm **Ali Safamanesh**, a dedicated **Backend Developer** from _Iran_. I 
 
 ![Tools & Technos](https://skillicons.dev/icons?i=python,nodejs,html,css,php,tailwindcss,flask,mint,ubuntu,linux,discord,js,opencv,bootstrap,git,github,godot,golang,dotnet,vscode,phpstorm,pycharm,rider,idea&theme=dark)
 
-I use **Linux Mint**!
+I use **Manjaro Linux**!
 
 ---
 
