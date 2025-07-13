@@ -12,9 +12,9 @@ Hello! I'm **Ali Safamanesh**, a dedicated **Backend Developer** from _Iran_. I 
 
 ## <img src="https://github.com/Daradege/Daradege/raw/refs/heads/main/code.webp" width="25"> Tools & Technologies
 
-![Tools & Technos](https://skillicons.dev/icons?i=python,nodejs,html,css,php,tailwindcss,flask,mint,ubuntu,linux,discord,js,opencv,bootstrap,git,github,godot,golang,dotnet,vscode,phpstorm,pycharm,rider,idea&theme=dark)
+![Tools & Technos](https://skillicons.dev/icons?i=python,nodejs,html,css,php,tailwindcss,flask,mint,ubuntu,arch,linux,discord,js,opencv,bootstrap,git,github,godot,golang,dotnet,vscode,phpstorm,pycharm,rider,idea&theme=dark)
 
-I use **Manjaro Linux**!
+I use **Linux Mint**!
 
 ---
 
