@@ -9,12 +9,11 @@
 <h1 align="center">Hi there <img src="https://github.com/Daradege/Daradege/raw/refs/heads/main/hi.webp" width="35"></h1>
 
 Hello! I'm **Ali Safamanesh**, a dedicated **Backend Developer** from _Iran_. I specialize in developing efficient backend solutions and creating automated systems through bot development for various platforms.
+I use **Arch Linux**! (btw 😂)
 
 ## <img src="https://github.com/Daradege/Daradege/raw/refs/heads/main/code.webp" width="25"> Tools & Technologies
 
 ![Tools & Technos](https://skillicons.dev/icons?i=python,nodejs,html,css,php,tailwindcss,flask,mint,ubuntu,arch,linux,discord,js,opencv,bootstrap,git,github,godot,golang,dotnet,vscode,phpstorm,pycharm,rider,idea&theme=dark)
-
-I use **Arch Linux** (btw 😂)!
 
 ---
 
